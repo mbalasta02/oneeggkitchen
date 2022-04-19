@@ -14,7 +14,7 @@ h1 {
 
 h3 {
   font-family: 'Ubuntu', sans-serif;
-  color: ##006778;
+  color: #006778;
   ;
 }
 
@@ -29,8 +29,7 @@ p {
 hr {
   border: dotted #EAF6F6 2PX;
   border-bottom: NONE;
-  margin: 0px auto;
-  width: 4%;
+  margin: 0 auto;
 }
 
 a {
@@ -59,7 +58,7 @@ a:hover {
 
 .cloud2 {
   position: absolute;
-  left: 300px bottom: 300px;
+  left: 300px
 }
 
 .logo {
@@ -100,10 +99,7 @@ a:hover {
 
 .cont {
   background-color: #93B5C6;
-  padding-right: 40%;
-  padding-left: 40%;
-  padding-bottom: 4px;
-  padding-top: 10px;
+padding: 40px 40px 4px 10px;
 }
 
 .contactlogo {
@@ -144,15 +140,10 @@ a:hover {
 }
 
 .footer2 {
-  padding: 0 0 20px;
   color: #eaf6f6;
   ;
   font-size: .75rem;
   padding: 20px 0;
-
-  .in {
-    color: #eaf6f6;
-  }
 }
 
 .get {
